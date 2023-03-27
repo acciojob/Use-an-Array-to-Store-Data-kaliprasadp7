@@ -1,1 +1,1 @@
-let yourArray=[5,true,'sikun',6,false];
+let yourArray=['one', 2, 'three', true, false, undefined, null];
